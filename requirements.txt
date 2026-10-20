@@ -1,3 +1,4 @@
 python-dotenv
 groq
 pypdf
+sentence-transformers
